@@ -1,0 +1,18 @@
+:root{--paper:#fbfaf6;--ink:#2b2f2a;--line-faint:#9aa39a;--road:#e4e3de;--concrete:#ecebe6;--nbr:#f1f0ea;--mulch:#efe5d3;--edge:#8a7e66;
+--turf:#e3ecd2;--turf-mark:#9db27a;--rock:#e6e4de;--pebble:#c9c5bb;--deck:#f4f1ea;--deck-joint:#ddd7c9;--water:#bfe0ea;--water-edge:#8ec3d3;
+--roof:#d9d6cf;--roof-line:#b3ada2;--dg:#e8d6b0;--dg-dot:#bfa16b;--bench:#8a6d4f;--pl:#a2553a;--canopy:rgba(120,140,110,.10);--hatch:rgba(60,80,55,.45);
+--sym-mute:#e9e6dd;--warn:#b5462f}
+svg .lbl{font:9px sans-serif} svg .street{font:600 11px sans-serif;letter-spacing:.25em;fill:#8c8a82}
+svg .nbr{font:9px sans-serif;letter-spacing:.2em;fill:#a8a69e} svg .bldg{font:600 8px sans-serif;letter-spacing:.12em;fill:var(--ink)}
+svg .poolt{font:600 12px sans-serif;letter-spacing:.3em;fill:#4f8ea2} svg .decklbl{font:600 8px sans-serif;letter-spacing:.12em;fill:#6b675d} svg .decksub{font:7.5px sans-serif;fill:#8b867a}
+svg .tag{font:600 6.4px sans-serif;fill:#26291f;paint-order:stroke;stroke:#fff;stroke-width:2.2px;stroke-linejoin:round}
+svg .tagnote{font:italic 7px sans-serif;fill:#5b5468;paint-order:stroke;stroke:#fff;stroke-width:2px}
+svg .zone{font:700 9.5px sans-serif;letter-spacing:.22em;fill:#3c4a35;paint-order:stroke;stroke:#fbfaf6;stroke-width:3px} svg .zonesub{font:italic 8px serif;fill:#5e6a56}
+svg .bot{font:italic 10px Georgia,serif;fill:var(--ink)} svg .com{font:8px sans-serif;fill:#6f736b;letter-spacing:.04em}
+svg .leader{fill:none;stroke:var(--ink);stroke-width:.55} svg .tiny{font:7.5px sans-serif;fill:var(--ink)} svg .warn{fill:var(--warn)} svg .na{font:700 12px serif;fill:var(--ink)}
+:root{--main:#1f4e79}
+svg .irrlab{font:700 7.4px sans-serif;letter-spacing:.06em;fill:var(--ink);paint-order:stroke;stroke:#fff;stroke-width:2.4px}
+svg .irrsub{font:italic 7px sans-serif;fill:#555;paint-order:stroke;stroke:#fff;stroke-width:2px}
+svg .irrsym{font:700 6px sans-serif} svg .irrsymw{font:700 9px sans-serif;fill:#fff} svg .zbadge{font:700 11px sans-serif;fill:#fff}
+
+svg .mstrip{font:600 6.6px sans-serif;letter-spacing:.14em;fill:#4d6b3a;paint-order:stroke;stroke:#fff;stroke-width:2px}

@@ -1,0 +1,16 @@
+{
+  "name": "florida-friendly-planting-planner",
+  "owner": {
+    "name": "Arron Lampkin"
+  },
+  "metadata": {
+    "description": "Florida-Friendly native landscape planning skills for Claude."
+  },
+  "plugins": [
+    {
+      "name": "florida-friendly-planting-planner",
+      "source": "./",
+      "description": "Plan a Florida-Friendly native landscape with paths, drip irrigation, an interactive HTML plan set and a phased, priced buildout."
+    }
+  ]
+}

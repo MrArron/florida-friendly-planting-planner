@@ -1,0 +1,10 @@
+{
+  "name": "florida-friendly-planting-planner",
+  "version": "0.1.0",
+  "description": "Plan a Florida-Friendly native landscape: measure a property from county GIS, design plantings with nature paths and drip irrigation, and deliver an interactive HTML plan set with a phased, priced buildout and year-by-year renders.",
+  "author": { "name": "Arron Lampkin" },
+  "homepage": "https://github.com/MrArron/florida-friendly-planting-planner",
+  "repository": "https://github.com/MrArron/florida-friendly-planting-planner",
+  "license": "MIT",
+  "keywords": ["landscape", "florida-friendly", "native plants", "florida", "irrigation", "hoa", "site plan", "budget", "phasing"]
+}
