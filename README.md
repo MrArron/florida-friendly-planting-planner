@@ -59,3 +59,5 @@ Issues and pull requests are welcome, especially plant palette corrections, supp
 ## License
 
 [MIT](LICENSE) © 2026 Arron Lampkin
+
+See [projects/lake-pointe-pool-garden/](projects/lake-pointe-pool-garden/) for a finished example: the Lake Pointe HOA pool garden plan (Python build, checks, and published page).
