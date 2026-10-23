@@ -460,6 +460,25 @@ table.ytab{{min-width:0;font-size:12.5px}} tr.tot td{{font-weight:700;border-top
       <li><b>Live oaks:</b> an ISA-certified arborist does structural pruning every 1–2 years for the first 5 years, then crown reduction and clearance pruning every 3–5 years to ANSI A300 standards. Keep the canopy 10–15 ft off the pool fence and 14 ft above the street. Install a 24 in root barrier on the curb side at planting.</li>
       <li><b>Fertilizer:</b> natives rarely need it. Brevard's county-wide ordinance bans nitrogen and phosphorus fertilizer every year from June 1 to Sept 30.</li></ul></div>
   </div>
+  <h3>Long-term shade review (estimates)</h3>
+  <p class="muted" style="font-size:13px">Growth rates are general estimates for live oak in Melbourne (zone 10a), not measurements. The plan draws the managed 28 ft canopy radius of the right-of-way oaks; a tighter arborist limit pushes every date later.</p>
+  <div class="cols">
+    <div><h3>Existing live oak</h3><ul class="tight">
+      <li>Already mature (canopy about 55-60 ft). The hammock zone (within 25 ft of the trunk) is already shade planting.</li>
+      <li>Adds only about 0.5-1 ft of canopy radius a year, so the dripline creeps about 5 ft into the sun meadow over 10 years.</li>
+      <li><b>Review at years 5 and 10:</b> sun plants at the hammock border (blanket flower, tickseed, horsemint, scarlet sage, milkweed, pinkscale blazing star) thin first. Move the hammock border out about 5 ft.</li></ul></div>
+    <div><h3>New right-of-way oaks</h3><ul class="tight">
+      <li><b>Years 0-4:</b> canopy radius up to about 6 ft. Beds stay in full sun.</li>
+      <li><b>Years 5-8:</b> radius about 8-12 ft. Beds within about 10 ft of a trunk get afternoon shade, and sun plants lean and bloom less.</li>
+      <li><b>Years 10-15:</b> radius about 16-22 ft. Beds within about 20 ft are in half-day shade or more.</li>
+      <li><b>Years 18-25:</b> radius reaches the managed 28 ft, about 10-15 ft short of the pool fence.</li></ul></div>
+    <div><h3>Review schedule</h3><ul class="tight">
+      <li><b>Year 3:</b> check the oaks, prune lower limbs, confirm the canopy plan.</li>
+      <li><b>Years 5-6:</b> thin or move sun plants within 10 ft of each new trunk and interplant coonties.</li>
+      <li><b>Years 10-12:</b> main swap. Convert beds within about 20 ft of each trunk to the shade palette (coontie, Southern shield, cinnamon and royal fern, wild coffee, marlberry, Walter's viburnum) and shift the existing oak's hammock border out.</li>
+      <li><b>Years 15-20:</b> final pass out to about 28 ft.</li>
+      <li>Muhly grass, lovegrass and blue porterweed tolerate part shade. Dwarf Fakahatchee grass, saw palmetto, dwarf palmetto, viburnum and marlberry hold up best. Do each walk-through in spring and look for leggy or non-blooming plants.</li></ul></div>
+  </div>
   <div class="callout"><p><b>For the board:</b> under Florida Statute 373.185, deed restrictions and HOA rules may not prohibit Florida-Friendly Landscaping. This plan follows the UF/IFAS Florida-Friendly principles: right plant, right place; group plants by water need; mulch; and use efficient irrigation.</p></div>
   <h3>Basis &amp; sources</h3>
   <p class="muted" style="font-size:13px">Parcel lines come from the Brevard County Property Appraiser GIS (State Plane FL East, US ft), and the north arrow from the recorded plat (Cypress Point right-of-way N56°19'58"E). The deck, restroom and walks were corrected in October 2026 from the county building sketch, tape measurements and photo resection; existing plants and site features were placed from a field photo survey. The entry walk's position along the curb is ±2–3 ft and the north and east fence lines are not yet field-checked. This is a concept design for review, not sealed construction documents.</p>
